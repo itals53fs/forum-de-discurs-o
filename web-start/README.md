@@ -1,6 +1,5 @@
 <div align="center" >
-  <h1 align="center" >
-   <img width="60" src="https://imagensemoldes.com.br/wp-content/uploads/2018/06/Imagem-Sol-Sol-entre-Nuvens-2-PNG.png"/>       
+  <h1 align="center" >      
      Forum em tempo real com Firebase </h1> 
   
   <p>Print Aplicação</p>
